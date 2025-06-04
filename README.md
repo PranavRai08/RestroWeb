@@ -11,4 +11,4 @@ Live URL : https://pranavraifoodapp.netlify.app/
  Designed engaging visuals with Canva and Figma to
  enhance user experience.
  Handled API interactions to ensure smooth and reliable
- performance
+ performance.
